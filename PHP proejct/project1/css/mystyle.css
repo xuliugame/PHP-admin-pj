@@ -1,0 +1,22 @@
+.main{
+	min-height: 600px;
+}
+
+#logindiv{
+	height: 400px;
+	width: 500px;
+}
+
+#loginForm{
+	margin-top: 40px;
+}
+
+#warn-username{
+	color:red;
+	display:none;
+}
+
+#warn-password{
+	color:red;
+	display:none;
+}
